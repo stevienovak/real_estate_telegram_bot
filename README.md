@@ -3,7 +3,7 @@ This project automates property sales interactions through Telegram as part of a
 
 As part of a broader solution, this bot contributed to the following outcomes:
 
-- Cost savings: Reduced call center expenses by S$6,000 per month.
+- Cost savings: Reduced call center expenses by S$6,000 per month!
 - Improved conversion rates: Enhanced the conversion of cold calls to sales through intelligent automation.
 
 Key Features:
